@@ -259,7 +259,7 @@ nav{
     padding-right: 0.5vw;
     margin-left: 0.2vw;
     top: 84vh;
-    left: 0vw;
+    left: 0.5vw;
 }
 
 .pg{
@@ -278,6 +278,7 @@ nav{
     margin-left: 0.2vw;
     font-size: 1.1vw;
     top: 92vh;
+    left: 0.5vw;
 }
 
 .c{
