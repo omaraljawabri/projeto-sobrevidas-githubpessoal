@@ -50,7 +50,9 @@ header{
     font-family: "Inter";
     color: white;
     margin-top: 0.8%;
-    left: 48%;
+    left: 50%;
+    top: 0vh;
+    font-weight: bold;
 }
 
 #caixausuario{
@@ -340,13 +342,13 @@ nav{
     left: 18vw;
     padding-top: 1vh;
     padding-bottom: 11vh;
-    width: 9.5vw;
+    width: 9vw;
     text-align: center;
-    border-radius: 15px;
+    border-radius: 10px;
     border-style: groove;
     border-width: 1px;
     border-color: #890E7D;
-    font-size: 1.1vw;
+    font-size: 0.95vw;
     box-shadow: 1px 1px rgba(0, 0, 0, 0.418);
 }
 
@@ -354,13 +356,13 @@ nav{
     position: absolute;
     background-color: white;
     top: 30vh;
-    left: 21.2vw;
-    padding-top: 1.8vh;
-    padding-bottom: 1.8vh;
+    left: 21vw;
+    padding-top: 1.4vh;
+    padding-bottom: 1.4vh;
     padding-left: 0.5vw;
     padding-right: 0.5vw;
-    border-radius: 10px;
-    font-size: 1.2vw;
+    border-radius: 7px;
+    font-size: 1.1vw;
     font-family: "Marcellus SC";
     color: black;
     border-style: groove;
@@ -379,13 +381,13 @@ nav{
     left: 32vw;
     padding-top: 1vh;
     padding-bottom: 11vh;
-    width: 9.5vw;
+    width: 9vw;
     text-align: center;
-    border-radius: 15px;
+    border-radius: 10px;
     border-style: groove;
     border-width: 1px;
     border-color: #890E7D;
-    font-size: 1.1vw;
+    font-size: 0.95vw;
     box-shadow: 1px 1px rgba(0, 0, 0, 0.418);
 }
 
@@ -393,12 +395,12 @@ nav{
     position: absolute;
     background-color: white;
     top: 30vh;
-    left: 35.3vw;
-    padding-top: 1.8vh;
-    padding-bottom: 1.8vh;
+    left: 35.1vw;
+    padding-top: 1.4vh;
+    padding-bottom: 1.4vh;
     padding-left: 0.8vw;
     padding-right: 0.8vw;
-    border-radius: 10px;
+    border-radius: 7px;
     font-size: 1.2vw;
     font-family: "Marcellus SC";
     color: black;
@@ -418,13 +420,13 @@ nav{
     left: 46vw;
     padding-top: 1vh;
     padding-bottom: 11vh;
-    width: 9.5vw;
+    width: 9vw;
     text-align: center;
-    border-radius: 15px;
+    border-radius: 10px;
     border-style: groove;
     border-width: 1px;
     border-color: #890E7D;
-    font-size: 1.1vw;
+    font-size: 0.95vw;
     box-shadow: 1px 1px rgba(0, 0, 0, 0.418);
 }
 
@@ -432,12 +434,12 @@ nav{
     position: absolute;
     background-color: white;
     top: 30vh;
-    left: 49.5vw;
-    padding-top: 1.8vh;
-    padding-bottom: 1.8vh;
+    left: 49.2vw;
+    padding-top: 1.4vh;
+    padding-bottom: 1.4vh;
     padding-left: 1vw;
     padding-right: 1vw;
-    border-radius: 10px;
+    border-radius: 7px;
     font-size: 1.2vw;
     font-family: "Marcellus SC";
     color: black;
@@ -453,30 +455,30 @@ nav{
     font-family: "Cabin";
     color: #181414;
     background-image: linear-gradient(to bottom, rgba(255, 183, 241, 0.200), rgba(215, 33, 179, 0.800));
-    top:42vh;
+    top:40vh;
     left: 18vw;
     padding-top: 1vh;
     padding-bottom: 8vh;
-    width: 9.5vw;
+    width: 9vw;
     text-align: center;
-    border-radius: 15px;
+    border-radius: 10px;
     border-style: groove;
     border-width: 1px;
     border-color: #890E7D;
-    font-size: 1.1vw;
+    font-size: 0.95vw;
     box-shadow: 1px 1px rgba(0, 0, 0, 0.418);
 }
 
 .dp4{
     position: absolute;
     background-color: white;
-    top: 55vh;
-    left: 21.2vw;
-    padding-top: 1.8vh;
-    padding-bottom: 1.8vh;
-    padding-left: 0.9vw;
-    padding-right: 0.9vw;
-    border-radius: 10px;
+    top: 51.3vh;
+    left: 21.3vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 0.7vw;
+    padding-right: 0.7vw;
+    border-radius: 7px;
     font-size: 1.2vw;
     font-family: "Marcellus SC";
     color: black;
@@ -492,30 +494,30 @@ nav{
     font-family: "Cabin";
     color: #181414;
     background-image: linear-gradient(to bottom, rgba(255, 208, 127, 0.2), rgba(221, 148, 30, 0.8));
-    top:42vh;
+    top:40vh;
     left: 32vw;
     padding-top: 1vh;
     padding-bottom: 8vh;
-    width: 9.5vw;
+    width: 9vw;
     text-align: center;
-    border-radius: 15px;
+    border-radius: 10px;
     border-style: groove;
     border-width: 1px;
     border-color: #890E7D;
-    font-size: 1.1vw;
+    font-size: 0.95vw;
     box-shadow: 1px 1px rgba(0, 0, 0, 0.418);
 }
 
 .dp5{
     position: absolute;
     background-color: white;
-    top: 55vh;
-    left: 35.2vw;
-    padding-top: 1.8vh;
-    padding-bottom: 1.8vh;
-    padding-left: 0.8vw;
-    padding-right: 0.8vw;
-    border-radius: 10px;
+    top: 51.3vh;
+    left: 35.1vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 0.6vw;
+    padding-right: 0.6vw;
+    border-radius: 7px;
     font-size: 1.2vw;
     font-family: "Marcellus SC";
     color: black;
@@ -531,30 +533,30 @@ nav{
     font-family: "Cabin";
     color: #181414;
     background-image: linear-gradient(to bottom, rgba(255, 138, 130, 0.200), rgba(247, 27, 11, 0.900));
-    top:42vh;
+    top:40vh;
     left: 46vw;
     padding-top: 1vh;
     padding-bottom: 8vh;
-    width: 9.5vw;
+    width: 9vw;
     text-align: center;
-    border-radius: 15px;
+    border-radius: 10px;
     border-style: groove;
     border-width: 1px;
     border-color: #890E7D;
-    font-size: 1.1vw;
+    font-size: 0.95vw;
     box-shadow: 1px 1px rgba(0, 0, 0, 0.418);
 }
 
 .dp6{
     position: absolute;
     background-color: white;
-    top: 55vh;
+    top: 51.3vh;
     left: 49.4vw;
-    padding-top: 1.8vh;
-    padding-bottom: 1.8vh;
-    padding-left: 0.9vw;
-    padding-right: 0.9vw;
-    border-radius: 10px;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 0.7vw;
+    padding-right: 0.7vw;
+    border-radius: 7px;
     font-size: 1.2vw;
     font-family: "Marcellus SC";
     color: black;
@@ -568,13 +570,13 @@ nav{
     position: absolute;
     left: 60vw;
     top: 8vh;
-    height: 59vh;
+    height: 53.5vh;
 }
 
 .horizontal{
     position: absolute;
     left: 18vw;
-    top: 67vh;
+    top: 61.5vh;
     width: 80vw;
 }
 
@@ -594,4 +596,206 @@ nav{
     padding-right: 5vw;
     padding-top: 0.2vw;
     padding-bottom: 0.2vw;
+}
+
+.grafico{
+    border-radius: 50%;
+    border: 2px solid rgba(0, 0, 0, 0.377);
+    width: 13.417vw;
+    height: 13.417vw;
+    position: absolute;
+    top: 26vh;
+    left: 80vw;
+    background-color: black;
+    background: repeating-conic-gradient(
+        from 0deg,
+        #EEA8E1 0deg 207deg,
+        rgba(255, 162, 0, 0.43) 207deg 308.88000000000001deg,
+        rgba(255, 17, 0, 0.69) 308.88000000000001deg 360deg
+    );
+}
+
+.grafico .dividir{
+    background: rgba(0, 0, 0, 0.616);
+    height: 50%;
+    left: 50%;
+    margin-left: -1px;
+    position: absolute;
+    top: 0;
+    transform-origin: 0 100%;
+    transform: rotate(calc(1turn * (var(--precent) / 100)));
+    width: 2px;
+}
+
+.info{
+    font-family: "Poppins";
+    color: rgba(0, 0, 0, 0.644);
+    font-size: 1.1vw;
+}
+
+.d1{
+    position: absolute;
+    left: 65vw;
+    top: 19vh;
+    color: rgba(0, 0, 0, 0.473);
+    font-family: "Poppins";
+    font-size: 1.2vw;
+}
+
+.bola1{
+    position: absolute;
+    left: 65.5vw;
+    top: 28.2vh;
+    background-color: #FF71E4;
+    width: 1vw;
+    height: 1vw;
+    border-radius: 50%;
+}
+
+.d2{
+    position: absolute;
+    left: 67vw;
+    top: 28vh;
+}
+
+.d22{
+    position: absolute;
+    left: 67vw;
+    top: 32.5vh;
+    color: rgba(0, 0, 0, 0.473);
+}
+
+.bola2{
+    position: absolute;
+    left: 65.5vw;
+    top: 39.2vh;
+    background-color: #FFA100;
+    width: 1vw;
+    height: 1vw;
+    border-radius: 50%;
+}
+
+.d3{
+    position: absolute;
+    left: 67vw;
+    top: 39vh;
+}
+
+.d33{
+    position: absolute;
+    left: 67vw;
+    top: 43.5vh;
+    color: rgba(0, 0, 0, 0.473);
+}
+
+.bola3{
+    position: absolute;
+    left: 65.5vw;
+    top: 50.2vh;
+    background-color: #FF1100;
+    width: 1vw;
+    height: 1vw;
+    border-radius: 50%;
+}
+
+.d4{
+    position: absolute;
+    left: 67vw;
+    top: 50vh;
+}
+
+.d44{
+    position: absolute;
+    left: 67vw;
+    top: 54.5vh;
+    color: rgba(0, 0, 0, 0.473);
+}
+
+h2{
+    position: absolute;
+    top: 63vh;
+    left: 17vw;
+    font-family: "Poppins";
+    font-weight: normal;
+    font-size: 1.7vw;
+}
+
+.pnv{
+    position: absolute;
+    font-family: "Poppins";
+    top: 71vh;
+    left: 17vw;
+    font-size: 1vw;
+    background-image: url(img/pinnaovisitado.png);
+    background-repeat: no-repeat;
+    background-size: 1.7vw;
+    background-position: 0vw;
+    padding-left: 4vh;
+}
+
+.pbv{
+    position: absolute;
+    font-family: "Poppins";
+    top: 77vh;
+    left: 17vw;
+    font-size: 1vw;
+    background-image: url(img/bandeirabaixo.png);
+    background-repeat: no-repeat;
+    background-size: 1.7vw;
+    background-position: 0vw;
+    padding-left: 4vh;
+}
+
+.pmv{
+    position: absolute;
+    font-family: "Poppins";
+    top: 83vh;
+    left: 17vw;
+    font-size: 1vw;
+    background-image: url(img/bandeiramedio.png);
+    background-repeat: no-repeat;
+    background-size: 1.7vw;
+    background-position: 0vw;
+    padding-left: 4vh;
+}
+
+.pav{
+    position: absolute;
+    font-family: "Poppins";
+    top: 89vh;
+    left: 17vw;
+    font-size: 1vw;
+    background-image: url(img/bandeiraalto.png);
+    background-repeat: no-repeat;
+    background-size: 1.7vw;
+    background-position: 0vw;
+    padding-left: 4vh;
+}
+
+.pa{
+    position: absolute;
+    font-family: "Poppins";
+    top: 95vh;
+    left: 17vw;
+    font-size: 1vw;
+    background-image: url(img/bandeiranaofoi.png);
+    background-repeat: no-repeat;
+    background-size: 1.7vw;
+    background-position: 0vw;
+    padding-left: 4vh;
+}
+
+.mapa{
+    overflow:hidden;
+    padding-bottom: 0;
+    position:relative;
+    height:0;
+}
+
+.mapa iframe{
+    left:39vw;
+    top:63vh;
+    height:36%;
+    width:60%;
+    position:fixed;
 }
