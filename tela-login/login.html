@@ -19,8 +19,8 @@
             </p>
             <p class="p1">
                 <label for="ipassword"></label>
-                <input type="password" name="senha" id="ipassword" required placeholder="Senha" class="mainLoginInput">
-                <a href="#" class="imgsenha"></a>
+                <input type="password" name="senha" id="ipassword" required placeholder="Senha" class="senha">
+                <a id="icon" onclick="showHide()"></a>
             </p>
             <p class="esenha"><a href="../telaesqueceusenha/esqueceusenha.html" class="esenha">Esqueceu a senha?</a></p>
             <p class="enviar"><button type="submit">Login</button></p>
@@ -34,6 +34,20 @@
         <h2>SOBREVIDAS - ACS</h2>
         <p class="login">Rastreamento e Monitoramento do câncer de boca</p>
     </div>
+    <script>
+        const password = document.getElementById('ipassword');
+        const icon = document.getElementById('icon')
 
+        function showHide(){
+            if(password.type === 'password'){
+                password.setAttribute('type', 'text');
+                icon.classList.add('hide');
+            }
+            else{
+                password.setAttribute('type', 'password');
+                icon.classList.remove('hide');
+            }
+        }
+    </script>
 </body>
 </html>

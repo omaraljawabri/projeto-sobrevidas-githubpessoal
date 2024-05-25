@@ -97,7 +97,7 @@ input[type=text]{
     margin-top: 3px;
 }
 
-.imgsenha{
+#icon{
     position: absolute;
     left: 83.7vw;
     width: 4vw;
@@ -112,6 +112,14 @@ input[type=text]{
     border-bottom-right-radius: 4px;
     margin-top: 3px;
     padding-top: 25px;
+    cursor: pointer;
+}
+
+#icon.hide{
+    background-image: url(img/olhosenhafechado.png);
+    background-size: 2vw;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 input[type=password].senha{
